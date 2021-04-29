@@ -1,9 +1,3 @@
-"""
-A convinient class of objects to communicate with Machina Bridge
-by Ardavan Bidgoli
-Robotics Fellow at CMU
-WIP
-"""
 import websockets
 import asyncio
 import json
